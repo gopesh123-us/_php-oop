@@ -6,7 +6,7 @@ class Dbh {
     private $user = 'root';
     private $pwd = '';
     //private $dbName = 'oopphp16';
-    private $dbName = 'ooplogin';
+    private $dbName = 'heroku_15add86970fc744';
 
     protected function connect() {
         try {

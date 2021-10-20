@@ -3,7 +3,7 @@
 class Dbh {
 
     private $host = 'us-cdbr-east-04.cleardb.com';
-    private $user = 'bcf1fa758b4cb9:7211c018';
+    private $user = 'bcf1fa758b4cb9';
     private $pwd = '7211c018';
     //private $dbName = 'oopphp16';
     private $dbName = 'heroku_15add86970fc744';

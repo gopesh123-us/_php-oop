@@ -2,11 +2,16 @@
 
 class Dbh {
 
-    private $host = 'us-cdbr-east-04.cleardb.com';
-    private $user = 'bcf1fa758b4cb9';
-    private $pwd = '7211c018';
-    //private $dbName = 'oopphp16';
-    private $dbName = 'heroku_15add86970fc744';
+    //heroku settings
+    // private $host = 'us-cdbr-east-04.cleardb.com';
+    // private $user = 'bcf1fa758b4cb9';
+    // private $pwd = '7211c018';
+    // private $dbName = 'heroku_15add86970fc744';
+
+    private $host = 'localhost';
+    private $user = 'root';
+    private $pwd = '';
+    private $dbName = 'oopphp16';
 
     protected function connect() {
         try {

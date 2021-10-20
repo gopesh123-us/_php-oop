@@ -3,8 +3,8 @@
 class Dbh {
 
     private $host = '127.0.0.1';
-    private $user = 'root';
-    private $pwd = '';
+    private $user = 'bcf1fa758b4cb9:7211c018';
+    private $pwd = '7211c018';
     //private $dbName = 'oopphp16';
     private $dbName = 'heroku_15add86970fc744';
 

@@ -2,7 +2,7 @@
 
 class Dbh {
 
-    private $host = '127.0.0.1';
+    private $host = 'us-cdbr-east-04.cleardb.com';
     private $user = 'bcf1fa758b4cb9:7211c018';
     private $pwd = '7211c018';
     //private $dbName = 'oopphp16';
